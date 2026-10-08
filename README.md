@@ -1,0 +1,2 @@
+# premium-keel-scarph-001-keel-scarph-joint-layout-and-b
+Stop redrawing scarph joints and guessing bolt positions — this Notion template turns hours of layout math into a single input, so you can focus on the cut, not the calculation.  The Keel Scarph Joint Layout and Bolt Pattern Planner eliminates the trial‑and‑error of traditional joinery layout. It automatically computes bolt spacing, joint angles, a
